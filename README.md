@@ -12,10 +12,10 @@ Client ID xxxxxxxxxxxxxxxxxxxxxxxx
 Client Secret xxxxxxxxxxxxxxxxxxxx
 #Estas claves nos permiten autenticarnos 
 
-# Para instalar los modulos que requerimos 
+# Modulos
 npm install node
-# Se descargarán las dependencias tanto de desarrollo como modulos utilizados en el proyecto 
-# express, nodemon, node-instagram, body-parser, morgan 
+#Se descargarán las dependencias tanto de desarrollo como modulos utilizados en el proyecto 
+#express, nodemon, node-instagram, body-parser, morgan 
 
 #Una vez instalamos los modulos necesarios podemos correr la aplicación
 #Para correr la api desde consola es: -> npm run dev
