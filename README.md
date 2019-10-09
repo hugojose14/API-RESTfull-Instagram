@@ -18,7 +18,9 @@ npm install node
 #express, nodemon, node-instagram, body-parser, morgan 
 
 #Una vez instalamos los modulos necesarios podemos correr la aplicación
-#Para correr la api desde consola es: -> npm run dev
+#Para correr la api desde consola es:
+
+npm run dev
 
 ###########################################################################################
 # Modulo de node-instagram  utilizado en el proyecto
