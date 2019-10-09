@@ -8,8 +8,8 @@ https://www.instagram.com/developer/
 #Colocar nuestro url (localhost:xxxx) y la información correspondiente 
 
 #Instagran nos dará  dos claves, tanto el id como la clave secreta
-Client ID xxxxxxxxxxxxxxxxxxxxxxxx
-Client Secret xxxxxxxxxxxxxxxxxxxx
+#Client ID xxxxxxxxxxxxxxxxxxxxxxxx
+#Client Secret xxxxxxxxxxxxxxxxxxxx
 #Estas claves nos permiten autenticarnos 
 
 # Modulos
@@ -37,6 +37,8 @@ yarn add node-instagram
 1) Loguearnos 
 2) Autenticarnos 
 3) Endpoints 
+4) peticiones
+
 
 #La Api nos permite mirar las últimas 20 publicaciones más recientes del perfil de usuario
 #Obtener la cantidad de seguidores, de personas que nos siguen y los likes que tenemos en esas 20 publicaciones
